@@ -1,3 +1,5 @@
+<br>
+
 <h2>အမှာစာ</h2>
 
 
@@ -25,28 +27,28 @@
 - [Web Development](#web-development)
     - [Books](#books-1)
     - [YouTube](#youtube-1)
-    - [Medium](#medium-1)
+    - [Medium/Blog](#mediumblog)
 - [Mobile App Development](#mobile-app-development)
     - [Books](#books-2)
     - [YouTube](#youtube-2)
-    - [Medium](#medium-2)
+    - [Medium / Blog](#medium--blog)
 - [Data Science \& Machine Learning](#data-science--machine-learning)
     - [Books](#books-3)
     - [YouTube](#youtube-3)
-    - [Medium](#medium-3)
+    - [Medium](#medium-1)
 - [Cloud Computing](#cloud-computing)
     - [Books](#books-4)
     - [YouTube](#youtube-4)
-    - [Medium](#medium-4)
+    - [Medium](#medium-2)
   - [Blog](#blog)
 - [Cybersecurity](#cybersecurity)
     - [Books](#books-5)
     - [YouTube](#youtube-5)
-    - [Medium](#medium-5)
+    - [Medium](#medium-3)
 - [BlockChain](#blockchain)
     - [Books](#books-6)
     - [YouTube](#youtube-6)
-    - [Medium](#medium-6)
+    - [Medium](#medium-4)
 
 <br>
 
@@ -95,9 +97,10 @@
 
 ##### YouTube
 * [JDC](https://www.youtube.com/@zawminLwin)
+* [MSquareProgramming](https://www.youtube.com/@MSquareProgramming)
 
 
-##### Medium
+##### Medium/Blog
 * [Professional Web Developer](http://eimaung.com/professional-web-developer) - Ei Maung
 ---
 
@@ -116,7 +119,9 @@
 ##### YouTube
 * [CodingwithCodeWallTechnologies](https://www.youtube.com/@CodingwithCodeWallTechnologies)
 
-##### Medium
+##### Medium / Blog
+
+* [aungkyawpaing.dev](https://aungkyawpaing.dev/)
 ---
 
 <br>
@@ -134,7 +139,6 @@
 
 ##### YouTube
 * [MYANMAR DATA SCIENCE](https://www.youtube.com/@MYANMARDATASCIENCE)
-* 
 
 
 

@@ -182,7 +182,6 @@
 
 
 ##### YouTube
-* [Okkar Min Maung](https://www.youtube.com/@okkarminmaung/)
 * [Myanmar Pentester Community](https://www.youtube.com/@myanmarpentestercommunity4837/)
 
 

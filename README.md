@@ -49,6 +49,11 @@
     - [Books](#books-6)
     - [YouTube](#youtube-6)
     - [Medium](#medium-4)
+- [General](#general)
+    - [Books](#books-7)
+    - [YouTube](#youtube-7)
+    - [Medium](#medium-5)
+  - [Podcast](#podcast)
 
 <br>
 
@@ -102,6 +107,7 @@
 
 ##### Medium/Blog
 * [Professional Web Developer](http://eimaung.com/professional-web-developer) - Ei Maung
+* [PyaeSoneNyein](https://medium.com/@pyaesonenyein)
 ---
 
 <br>
@@ -214,4 +220,32 @@
 
 <br>
 
-ဒီမှာ ရည်ညွှန်းထားတဲ့ အရာများအား မူရင်းပိုင်ရှင်များမှ GitHub ပေါ်တွင် တင်ရန် မလိုလားပါက nyilynnhtwe@gmail.com ကို အကြောင်းကြားနိုင်ပါတယ်ခင်ဗျာ။
+---
+### General
+
+
+<br>
+
+
+##### Books
+
+
+##### YouTube
+* [SaturnGod](https://www.youtube.com/@saturngod)
+* [SoeThihaNaung](https://www.youtube.com/@SoeThihaNaung)
+
+
+##### Medium
+
+
+#### Podcast
+
+* [TechShaw](https://open.spotify.com/show/0BNTOYC1ZftksTQjzUdrfT?si=858e56848ff84267)
+
+---
+
+<br>
+
+* ကလောင်အမည် / နာမည်အရင်းများကို သာအသုံးပြုထားပါသည်။
+* ကျော်ဟိန်း ကို ကျော်ဟိန်းဘဲ ခေါ်ချင်သည် ။ ဦးကျော်ဟိန်းလို့ မခေါ်ချင်ပါ။ မလေးစားသောကြာင့်မဟုတ်ပါခင်ဗျာ။
+* ဒီမှာ ရည်ညွှန်းထားတဲ့ အရာများအား မူရင်းပိုင်ရှင်များမှ GitHub ပေါ်တွင် တင်ရန် မလိုလားပါက nyilynnhtwe@gmail.com ကို အကြောင်းကြားနိုင်ပါတယ်ခင်ဗျာ။

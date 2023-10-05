@@ -169,6 +169,8 @@
 ##### YouTube
 * [DevKTOps](https://www.youtube.com/@DevKTOps)
 * [NorthernStarLearning](https://www.youtube.com/@NorthernStarLearning/)
+* [HelloCloud](https://www.youtube.com/@HelloCloud)
+
 
 ##### Medium
 

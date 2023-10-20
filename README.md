@@ -101,6 +101,7 @@
 -   [Programming 72 Coder](https://www.youtube.com/@Programming72Coder)
 -   [Creative Coder Myanmar](https://www.youtube.com/@CreativeCoderMyanmar)
 -   [MMS IT](https://www.youtube.com/@MMSIT2021/videos)
+-   [ Technortal](https://www.youtube.com/@technortal3281)
 
 ##### Medium/Blog
 

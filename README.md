@@ -93,6 +93,7 @@
 -   [React - On Point](https://eimaung.com/react/) - Ei Maung
 -   [Laravel - On Point](https://eimaung.com/laravel/) - Ei Maung
 -   [PHP - On Point](https://eimaung.com/php/) - Ei Maung
+-   [Design Patterns - Saturngod](https://designpatterns.saturngod.net) - Saturngod
 
 ##### YouTube
 

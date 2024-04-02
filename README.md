@@ -245,3 +245,10 @@
 -   ကလောင်အမည် / နာမည်အရင်းများကို သာအသုံးပြုထားပါသည်။
 -   ကျော်ဟိန်း ကို ကျော်ဟိန်းဘဲ ခေါ်ချင်သည် ။ ဦးကျော်ဟိန်းလို့ မခေါ်ချင်ပါ။ မလေးစားသောကြာင့်မဟုတ်ပါခင်ဗျာ။
 -   ဒီမှာ ရည်ညွှန်းထားတဲ့ အရာများအား မူရင်းပိုင်ရှင်များမှ GitHub ပေါ်တွင် တင်ရန် မလိုလားပါက nyilynnhtwe@gmail.com ကို အကြောင်းကြားနိုင်ပါတယ်ခင်ဗျာ။
+
+
+
+
+## Star History 🌟
+
+[![Star History Chart](https://api.star-history.com/svg?repos=nyilynnhtwe/resources-for-mm-dev&type=Date)](https://star-history.com/#nyilynnhtwe/resources-for-mm-dev&Date)

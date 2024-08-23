@@ -93,7 +93,10 @@
 -   [React - On Point](https://eimaung.com/react/) - Ei Maung
 -   [Laravel - On Point](https://eimaung.com/laravel/) - Ei Maung
 -   [PHP - On Point](https://eimaung.com/php/) - Ei Maung
--   [Design Patterns - Saturngod](https://designpatterns.saturngod.net) - Saturngod
+-   [Design Patterns](https://designpatterns.saturngod.net) - Saturngod
+-   [Developer Intern](https://devint.saturngod.net/book/) - Saturngod   
+-   [UML Basics](https://umlbasic.saturngod.net/) - Saturngod
+-   [Database Basic with MYSQL](https://dbbasic.saturngod.net/book/cover.html) - Saturngod
 
 ##### YouTube
 
@@ -102,8 +105,8 @@
 -   [CodeHub](https://www.youtube.com/@codehub_mm)
 -   [Programming 72 Coder](https://www.youtube.com/@Programming72Coder)
 -   [Creative Coder Myanmar](https://www.youtube.com/@CreativeCoderMyanmar)
--   [MMS IT](https://www.youtube.com/@MMSIT2021/videos)
--   [ Technortal](https://www.youtube.com/@technortal3281)
+-   [MMS IT](https://www.youtube.com/@MMSIT2021)
+-   [Technortal](https://www.youtube.com/@technortal555)
 
 ##### Medium/Blog
 
@@ -229,6 +232,7 @@
 
 -   [SaturnGod](https://www.youtube.com/@saturngod)
 -   [SoeThihaNaung](https://www.youtube.com/@SoeThihaNaung)
+-   [Dr Myo Thida](https://www.youtube.com/@drmyothida)
 
 ##### Medium
 
@@ -243,7 +247,7 @@
 <br>
 
 -   ကလောင်အမည် / နာမည်အရင်းများကို သာအသုံးပြုထားပါသည်။
--   ကျော်ဟိန်း ကို ကျော်ဟိန်းဘဲ ခေါ်ချင်သည် ။ ဦးကျော်ဟိန်းလို့ မခေါ်ချင်ပါ။ မလေးစားသောကြာင့်မဟုတ်ပါခင်ဗျာ။
+-   ကျော်ဟိန်း ကို ကျော်ဟိန်းဘဲ ခေါ်ချင်သည် ။ ဦးကျော်ဟိန်းလို့ မခေါ်ချင်ပါ။ မလေးစားသောကြောင့်မဟုတ်ပါခင်ဗျာ။
 -   ဒီမှာ ရည်ညွှန်းထားတဲ့ အရာများအား မူရင်းပိုင်ရှင်များမှ GitHub ပေါ်တွင် တင်ရန် မလိုလားပါက nyilynnhtwe@gmail.com ကို အကြောင်းကြားနိုင်ပါတယ်ခင်ဗျာ။
 
 
@@ -251,4 +255,5 @@
 
 ## Star History 🌟
 
-[![Star History Chart](https://api.star-history.com/svg?repos=nyilynnhtwe/resources-for-mm-dev&type=Date)](https://star-history.com/#nyilynnhtwe/resources-for-mm-dev&Date)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=lynnmeanslight/resources-for-mm-dev&type=Date)](https://star-history.com/#lynnmeanslight/resources-for-mm-dev&Date)

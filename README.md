@@ -64,6 +64,8 @@
 
 ##### Books
 
+- [Programming Basic](https://books.saturngod.net/programming_basic/) - Saturngod
+
 ##### YouTube
 
 ##### Medium
@@ -96,6 +98,8 @@
 -   [Developer Intern](https://devint.saturngod.net/book/) - Saturngod   
 -   [UML Basics](https://umlbasic.saturngod.net/) - Saturngod
 -   [Database Basic with MYSQL](https://dbbasic.saturngod.net/book/cover.html) - Saturngod
+-   [HTML & CSS – Beginner to Super Beginner](https://drive.google.com/file/d/1EcXt3WrOzLh-PR6ywdEXR1kIMr0DxK3s/view) - Lwin Moe Paing
+-   [Object Oriented Programming And Design Pattern Series](https://github.com/mrthetkhine/designpattern/blob/master/Object-Oriented-Programming-and-Design-Pattern-Series.pdf) - Thet Khine
 
 ##### YouTube
 
@@ -111,6 +115,7 @@
 
 -   [Professional Web Developer](http://eimaung.com/professional-web-developer) - Ei Maung
 -   [PyaeSoneNyein](https://medium.com/@pyaesonenyein)
+-   [SQL101](https://sql101.aprogrammer.blog/) - Hlaing Tin Htun
 
 ---
 
@@ -143,6 +148,9 @@
 <br>
 
 ##### Books
+
+- [Introduction to Supervised Machine Learning](https://leanpub.com/supervisedmachinelearning_Myanmar) - Dr. Myo Thida
+- [Introduction to Deep Learning](https://leanpub.com/introduction_to_deeplearning_by_Myo) - Dr. Myo Thida
 
 ##### YouTube
 
@@ -231,7 +239,7 @@
 
 -   [SaturnGod](https://www.youtube.com/@saturngod)
 -   [SoeThihaNaung](https://www.youtube.com/@SoeThihaNaung)
--   [Dr Myo Thida](https://www.youtube.com/@drmyothida)
+-   [Dr. Myo Thida](https://www.youtube.com/@drmyothida)
 
 ##### Medium
 

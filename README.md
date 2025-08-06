@@ -100,6 +100,7 @@
 -   [Database Basic with MYSQL](https://dbbasic.saturngod.net/book/cover.html) - Saturngod
 -   [HTML & CSS – Beginner to Super Beginner](https://drive.google.com/file/d/1EcXt3WrOzLh-PR6ywdEXR1kIMr0DxK3s/view) - Lwin Moe Paing
 -   [Object Oriented Programming And Design Pattern Series](https://github.com/mrthetkhine/designpattern/blob/master/Object-Oriented-Programming-and-Design-Pattern-Series.pdf) - Thet Khine
+-   [Dive Into SQL](https://rubenhtun.github.io/dive-into-sql/) - Ruben Htun
 
 ##### YouTube
 
